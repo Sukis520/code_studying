@@ -1,4 +1,0 @@
-The file /fall-detection-web/fall-detection-web/src/model/model.pkl is a binary file that contains the trained machine learning model. Since I cannot generate binary content directly, I will indicate that this file is intentionally left blank.
-
-# model.pkl
-# This file is intentionally left blank.
